@@ -1,9 +1,6 @@
 # What Makes the Lights Stay Off? Analyzing Power Outage Duration in the U.S.
 **by Ryan Jose**
 
-# What Makes the Lights Stay Off? Analyzing Power Outage Duration in the U.S.
-**by Ryan Jose**
-
 ## Introduction
 
 This project analyzes major power outages across the United States from 2000 to 2016. The central question guiding this analysis is: **what factors are associated with longer power outage durations?**
