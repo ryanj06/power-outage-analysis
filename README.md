@@ -1,4 +1,4 @@
-# Power Outage Analysis
+# What Makes the Lights Stay Off? Analyzing Power Outage Duration in the U.S.
 **by Ryan Jose**
 
 ## Introduction
