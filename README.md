@@ -126,7 +126,7 @@ A **log transformation was also applied to the target variable** before training
 
 A `RandomForestRegressor` was used because it captures nonlinear interactions between features that a linear model cannot. `GridSearchCV` with 5-fold cross-validation was used to tune `max_depth` and `n_estimators`. The `max_depth` parameter controls how deep each tree can grow, and `n_estimators` controls the number of trees in the forest. More trees generally reduce variance, while deeper trees can capture more complex patterns but risk overfitting.
 
-**Best hyperparameters:** `max_depth=20`, `n_estimators=100`
+**Best hyperparameters:** `max_depth=5`, `n_estimators=200`
 
 | Split | RMSE |
 |-------|------|
